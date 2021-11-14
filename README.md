@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Adhil Ameen ET.
-### Karuvankallu,Kondotty, Kerala, India.
+### Karuvankallu, Kondotty, Kerala, India.
 Currently pursuing my degree in Computer Science from Farook College, Kerala.
 
 ---
