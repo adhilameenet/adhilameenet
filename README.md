@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 <h2>Hi👋 , I'm Adhil Ameen</h2>
 <p><img src="https://komarev.com/ghpvc/?username=adilayyoob&label=Profile%20views&color=0e75b6&style=flat" alt="adilayyoob"/></p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
