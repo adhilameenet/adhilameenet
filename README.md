@@ -1,9 +1,9 @@
-<h2>Hi👋 , I'm Adhil Ameen</h2>
-<p><img src="https://komarev.com/ghpvc/?username=adilayyoob&label=Profile%20views&color=0e75b6&style=flat" alt="adilayyoob"/></p>
+<h2>Hi👋 , I'm Adhil Ameen ET</h2>
+<p><img src="https://komarev.com/ghpvc/?username=adhilameenet&label=Profile%20views&color=0e75b6&style=flat" alt="adhilameenet"/></p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 💻 &nbsp; Techno Enthusiast<br>
+- 💻 &nbsp; Tech Enthusiast<br>
 - 📙 &nbsp; Continous Learner<br>
-- 🎓 &nbsp; Studying Computer Science at Farook Collge , Calicut<br>
+- 🎓 &nbsp; Studying Computer Science at Farook College , Calicut<br>
 - 🌱 &nbsp; Currently Learning and Developing in MERN Stack<br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
