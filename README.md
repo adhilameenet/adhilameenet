@@ -1,9 +1,24 @@
-<h2>Hi👋 , I'm Adhil Ameen ET</h2>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## Heyy👋 I'm Adhil Ameen ET.
+
 - 💻 &nbsp; Tech Enthusiast<br>
-- 🎓 &nbsp; Studying Computer Science at Farook College , Calicut<br>
-- 🌱 &nbsp; Currently Learning and Developing in MERN Stack<br><br>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="https://www.twitter.com/adhilameenet"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-adhilameenet-blue?style=flat-square&logo=twitter"></a><br>
-<a href="https://www.linkedin.com/in/adhilameenet/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adhilameenet-blue?style=flat-square&logo=linkedin"></a><br>
-<a href="mailto:adhilameenet@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adhilameenet@gmail.com-blue?style=flat-square&logo=gmail"></a>
+- 🌱 &nbsp; Exploring Backend Development <br>
+- 🎓 &nbsp; Studying Computer Science at Farook College <br>
+
+<p>
+  <b><i>Let's connect!</i></p> 
+  <a href="https://twitter.com/adhilameenet" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:adhilameenet@gmail.com" target="_blank">
+    <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adhilameenet/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<h2>👨‍💻 Languages and Tools</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,codepen,css,discord,express,figma,firebase,git,github,heroku,html,ai,java,js,jquery,linux,md,mongodb,mysql,netlify,nodejs,ps,php,powershell,py,stackoverflow,tailwind,vscode&perline=8&theme=light" />
+  </a>
+</p>
