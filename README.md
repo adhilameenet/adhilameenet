@@ -2,8 +2,6 @@
 
 - 💻 &nbsp; Tech Enthusiast<br>
 - 🌱 &nbsp; Exploring Backend Development <br>
-- 🎓 &nbsp; Studying Computer Science at Farook College <br>
-
 <p>
   <b><i>Let's connect!</i></p> 
   <a href="https://twitter.com/adhilameenet" target="_blank">
